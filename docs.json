@@ -4,9 +4,9 @@
   "name": "Linden Blog",
   "description": "A blog documentation site powered by Linden Starter Kit",
   "colors": {
-    "primary": "#4A90E2",
-    "light": "#F5F7FA",
-    "dark": "#1A202C"
+    "primary": "#FF4081",
+    "light": "#FFD1E0",
+    "dark": "#B0004A"
   },
   "logo": {
     "light": "/assets/hero-light.png",
@@ -14,8 +14,8 @@
     "href": "https://robigoras.mintlify.app"
   },
   "favicon": {
-    "light": "/assets/favicon-light.png",
-    "dark": "/assets/favicon-dark.png"
+    "light": "/assets/light.png",
+    "dark": "/assets/dark.png"
   },
   "navigation": {
     "dropdowns": [
@@ -48,7 +48,7 @@
     "primary": {
       "type": "button",
       "label": "Read Now",
-      "href": "https://robigoras.mintlify.app"
+      "href": "https://robigoras.mintlify.app/setting-up"
     }
   },
   "footer": {
