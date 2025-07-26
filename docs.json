@@ -48,7 +48,7 @@
     "primary": {
       "type": "button",
       "label": "Read Now",
-      "href": "https://robigoras.mintlify.app/setting-up"
+      "href": "https://robigoras.mintlify.app/pages/setting-up"
     }
   },
   "footer": {
