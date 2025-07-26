@@ -4,8 +4,8 @@
   "name": "Linden Blog",
   "description": "A blog documentation site powered by Linden Starter Kit",
   "colors": {
-    "primary": "#FF4081",
-    "light": "#FFD1E0",
+    "primary": "#F50057",
+    "light": "#FFE4E6",
     "dark": "#B0004A"
   },
   "logo": {
