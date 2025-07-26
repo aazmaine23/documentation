@@ -17,6 +17,10 @@
     "light": "/assets/light.png",
     "dark": "/assets/dark.png"
   },
+  "appearance": {
+    "default": "system",
+    "strict": false
+  },
   "navigation": {
     "dropdowns": [
       {
