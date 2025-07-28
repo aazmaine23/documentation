@@ -31,7 +31,7 @@
           {
             "group": "Posts",
             "pages": [
-              "setting-up",
+              "docs",
               "make-it-yours",
               "next-steps"
             ]
@@ -52,7 +52,7 @@
     "primary": {
       "type": "button",
       "label": "Read Now",
-      "href": "https://robigoras.mintlify.app/setting-up"
+      "href": "https://robigoras.mintlify.app/docs"
     }
   },
   "footer": {
