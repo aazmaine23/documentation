@@ -21,6 +21,12 @@
     "default": "light",
     "strict": true
   },
+  "fonts": {
+    "family": "Libertinus Sans",
+    "weight": 400,
+    "source": "https://fonts.googleapis.com/css2?family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&display=swap",
+    "format": "woff2"
+  },
   "navigation": {
     "dropdowns": [
       {
@@ -34,7 +40,8 @@
               "docs",
               "make-it-yours",
               "next-steps",
-              "at-the-crossroads"
+              "at-the-crossroads",
+              "new-adventures"
             ]
           }
         ]
@@ -53,7 +60,7 @@
     "primary": {
       "type": "button",
       "label": "Read Now",
-      "href": "https://robigoras.mintlify.app/docs"
+      "href": "https://robigoras.mintlify.app/at-the-crossroads"
     }
   },
   "footer": {
