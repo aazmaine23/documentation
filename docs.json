@@ -38,10 +38,10 @@
             "group": "Posts",
             "pages": [
               "docs",
-              "make-it-yours",
-              "next-steps",
-              "at-the-crossroads",
-              "new-adventures"
+              "/pages/make-it-yours",
+              "/pages/next-steps",
+              "/pages/at-the-crossroads",
+              "/pages/new-adventures"
             ]
           }
         ]
@@ -51,7 +51,7 @@
         "icon": "tree",
         "description": "Updates to the blog",
         "pages": [
-          "changelog"
+          "/pages/changelog"
         ]
       }
     ]
