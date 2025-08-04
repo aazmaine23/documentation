@@ -14,8 +14,8 @@
     "href": "https://robigoras.mintlify.app"
   },
   "favicon": {
-    "light": "/assets/light.png",
-    "dark": "/assets/dark.png"
+    "light": "/assets/light.svg",
+    "dark": "/assets/dark.svg"
   },
   "appearance": {
     "default": "light",
